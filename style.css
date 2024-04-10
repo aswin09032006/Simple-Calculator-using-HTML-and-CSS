@@ -1,0 +1,86 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #000000;
+  color: #fdfffc;
+  text-align: center;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: flex;
+  background-size: cover;
+  height: 100vh;
+}
+
+
+input.btn0{
+  width: 150px;
+  height: 60px;
+  font-size: 30px;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #353c50af;
+  color: rgb(255, 255, 255);
+  border-style: none;
+  transition: background-color 0.3s;
+}
+
+input.btn0:hover{
+  color: #1c1c1c;
+  cursor: pointer;
+}
+
+input.btn1{
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #353c50af;
+  color: rgb(255, 255, 255);
+  border-style: none;
+  transition: background-color 0.3s;
+}
+
+input.btn1:hover{
+  color: #1c1c1c;
+  cursor: pointer;
+}
+
+input.btn2{
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #E73863;
+  color: rgb(255, 255, 255);
+  border-style: none;
+  transition: background-color 0.3s;
+}
+
+input.btn2:hover{
+  color: #e2dddd;
+  cursor: pointer;
+}
+
+input.display {
+  width: 320px;
+  height: 70px;
+  font-size: 30px;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #111111;
+  color: rgb(255, 255, 255);
+  border-style: none;
+}
+
+.rectangle {
+  width: 350px;
+  height: 415px;
+  border-radius: 15px;
+  margin: 0px 50px -50px 50px;
+  background-color: #1c1c1c;
+  border-style: none;
+}
